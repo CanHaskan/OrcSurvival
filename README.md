@@ -1,5 +1,7 @@
 # Orc Survival
 
+![Gameplay Screenshot](Assets/Screenshots/gameplay.png)
+
 Orc Survival is a 3D action survival game built with Unity.  
 The player fights against waves of enemies and tries to survive as long as possible.
 
