@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: c52f4433435c67d439ef0367275f2365
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - player: {instanceID: 0}
+  - tanker: {fileID: 919132149155446097, guid: 544b2fe9ad206574f8ac957c9c669043, type: 3}
+  - ranger: {fileID: 919132149155446097, guid: d77efafdb87c815429fc3a702b21b376, type: 3}
+  - soldier: {fileID: 919132149155446097, guid: f2d011d941991b14991eb71e6a5b30cd,
+      type: 3}
+  - arrow: {instanceID: 0}
+  - healthPowerUp: {instanceID: 0}
+  - speedPowerUp: {instanceID: 0}
+  - levelText: {instanceID: 0}
+  - endGameText: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
